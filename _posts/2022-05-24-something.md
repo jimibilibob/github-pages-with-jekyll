@@ -1,4 +1,4 @@
-
-title: "Welcome again"
-date: 2022-05-24
+---
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
